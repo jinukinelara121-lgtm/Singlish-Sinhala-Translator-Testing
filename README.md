@@ -11,7 +11,6 @@ The test suite includes:
 * Positive functional test cases
 * Negative functional test cases
 * UI-related test scenarios
-  based on the assignment requirements for **Semester 1**.
 
 ---
 
@@ -31,7 +30,7 @@ singlish-sinhala-testing/
 ├── tests/
 │   ├── positive-functional.spec.js
 │   ├── negative-functional.spec.js
-│   └── ui-tests.spec.js
+│   └── positive-ui.spec.js
 │
 ├── playwright.config.js
 ├── package.json
