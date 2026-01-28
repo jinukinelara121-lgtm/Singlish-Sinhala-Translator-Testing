@@ -1,5 +1,7 @@
 # Singlish to Sinhala Translator – Playwright Test Automation
 
+## IT23555976 - Senevirathne S W J N
+
 ## 📌 Project Overview
 
 This repository contains automated test cases implemented using **Playwright** to test the functionality, robustness, and UI behavior of the **Singlish to Sinhala Translator web application**.
@@ -115,25 +117,4 @@ The test cases cover the following areas:
   * Real-time output updates
   * Clearing input behavior
   * Formatting preservation
-
----
-
-## 📄 Assignment Compliance
-
-This repository fulfills the **Semester 1 assignment requirements** by including:
-
-* ✅ A complete Playwright automation project
-* ✅ Positive and negative test scripts
-* ✅ UI-related test scenarios
-* ✅ Clear instructions to install and run tests
-* ✅ Publicly accessible GitHub repository
-
-> ⚠️ **Note:** Ensure the repository is set to **Public** so it can be accessed during marking.
-
----
-
-## 👤 Author
-
-**Name:** *Senevirathne S W J N*
-**Student IT Number:** *IT23555976*
 
